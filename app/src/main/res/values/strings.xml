@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Bluetooth Ajmera</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="stop_scan">Stop Scan</string>
+    <string name="bt_device">BT DEVICE</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="scanned_devices">Scanned Devices</string>
 </resources>
